@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visheshchandra293
 - 👀 I’m interested in Data Structures and Full Stack Development 
-- 🌱 Upcoming Specialist Programmer at Infosys , ex-Accenture
+- 🌱 ex-Accenture
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me visheshchandra293@gmail.com
 
